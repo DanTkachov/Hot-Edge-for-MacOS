@@ -1,0 +1,35 @@
+# Build output
+.build/
+build/
+DerivedData/
+*.app
+*.dSYM/
+*.dSYM.zip
+*.ipa
+*.xcarchive
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved.bak
+
+# Xcode user state
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.xcuserstate
+
+# Generated icon intermediates
+*.iconset/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
